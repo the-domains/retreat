@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Time to stop and smell the roses
-datePublished: '2016-03-22T21:39:42.220Z'
-dateModified: '2016-03-22T21:38:26.732Z'
+datePublished: '2016-03-22T21:40:13.556Z'
+dateModified: '2016-03-22T21:39:50.876Z'
 title: Enlightend Retreat
 author: []
+sourcePath: _posts/2016-03-22-enlightend-retreat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-enlightend-retreat.md
-published: true
 url: enlightend-retreat/index.html
 _type: Article
 
