@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Retreat]]></title>
         <description><![CDATA[Retreat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/retreat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:40:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 21:40:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/retreat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Enlightend Retreat]]></title>
             <description><![CDATA[<article><h1>Enlightend Retreat</h1><p>Time to stop and smell the roses</p></article>]]></description>
-            <link>undefinedenlightend-retreat/index.html</link>
+            <link>https://thegrid.ai/retreat/enlightend-retreat/index.html</link>
             <guid isPermaLink="false">be63d691-8f4f-4dc3-9c4d-256eef07bcfa</guid>
-            <pubDate>Tue, 22 Mar 2016 21:39:42 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 21:40:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
