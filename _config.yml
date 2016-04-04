@@ -1,6 +1,6 @@
 name: Retreat
 favicon: null
-layout_spectrum: 0.9089099855627865
+layout_spectrum: 0.99922
 typography_spectrum: 0.75442
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#3e5d8b'
+    - '#030303'
+    - '#678cc1'
+    - '#2e332c'
+    - '#e2cba9'
   brandStrength: 0.9859841510187835
   lightness: 0.3262921338900924
   saturation: 0.07598179718479514
